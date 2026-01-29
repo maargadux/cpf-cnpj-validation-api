@@ -265,8 +265,8 @@ Pensado pra funcionar no mundo real.
 
 ---
 
-## 🖤 Autoria
+## Projeto programado por
 
 Feito por **Mali**.
 
-Backend, API, mundo real e pé no chão.
+Backend&API
